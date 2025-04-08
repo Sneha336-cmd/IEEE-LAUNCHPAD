@@ -1,5 +1,5 @@
-# Full Name
-S.Sneha
+# S.Sneha
+
 
 ### About Me
 
